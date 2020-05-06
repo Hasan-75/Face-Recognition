@@ -2,7 +2,7 @@ from mtcnn import MTCNN
 import cv2
 
 def main():
-    img = cv2.imread(".\\images\\avengers.jpg")
+    img = cv2.imread(".\\images\\war.jpg")
     #img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     detector = MTCNN()
     bound_boxes = detector.detect_faces(img)
