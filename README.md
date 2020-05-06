@@ -21,10 +21,10 @@ End with an example of getting some data out of the system or using it for a lit
 
 
 ### Previews
-![Face detection](images/screenshots/1.jpg)
+![Face detection](images/screenshots/1.JPG)
 <p>&nbsp;</p>
 
-![Multiple face detection](images/screenshots/2.jpg)
+![Multiple face detection](images/screenshots/2.JPG)
 <p>&nbsp;</p>
 
 ![Realtime detection](images/screenshots/video.gif)
