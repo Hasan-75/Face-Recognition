@@ -16,8 +16,6 @@ Install **MTCNN** and **Tensorflow**
 pip install mtcnn
 pip install tensorflow
 ```
-Create a 
-End with an example of getting some data out of the system or using it for a little demo
 
 
 ### Previews
